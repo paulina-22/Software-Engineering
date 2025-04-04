@@ -1,0 +1,7 @@
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\psw generator\bin\Debug\psw generator.exe.config
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\psw generator\bin\Debug\psw generator.exe
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\psw generator\bin\Debug\psw generator.pdb
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\psw generator\obj\Debug\psw generator.csproj.AssemblyReference.cache
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\psw generator\obj\Debug\psw generator.csproj.CoreCompileInputs.cache
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\psw generator\obj\Debug\psw generator.exe
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\psw generator\obj\Debug\psw generator.pdb
