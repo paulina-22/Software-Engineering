@@ -1,0 +1,7 @@
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\calculator\bin\Debug\calculator.exe.config
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\calculator\bin\Debug\calculator.exe
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\calculator\bin\Debug\calculator.pdb
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\calculator\obj\Debug\calculator.exe
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\calculator\obj\Debug\calculator.pdb
