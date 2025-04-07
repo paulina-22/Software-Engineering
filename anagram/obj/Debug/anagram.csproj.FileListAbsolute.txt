@@ -1,0 +1,7 @@
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\anagram\bin\Debug\anagram.exe.config
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\anagram\bin\Debug\anagram.exe
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\anagram\bin\Debug\anagram.pdb
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\anagram\obj\Debug\anagram.csproj.AssemblyReference.cache
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\anagram\obj\Debug\anagram.csproj.CoreCompileInputs.cache
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\anagram\obj\Debug\anagram.exe
+C:\Users\velik\OneDrive\Stalinis kompiuteris\Software Engineering\anagram\obj\Debug\anagram.pdb
